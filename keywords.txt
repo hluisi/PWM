@@ -1,0 +1,68 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#PWM class
+PWM	KEYWORD1
+
+#CONTROL class
+CONTROL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#PWM class
+setPin	KEYWORD2
+setMax	KEYWORD2
+setMin	KEYWORD2
+setPWM	KEYWORD2
+getMin	KEYWORD2
+getMax	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+toggle	KEYWORD2
+
+#CONTROL class
+all_off	KEYWORD2
+all_on	KEYWORD2
+setMax_all	KEYWORD2
+setMin_all	KEYWORD2
+setPWM_all	KEYWORD2
+random_pwm	KEYWORD2
+random_on	KEYWORD2
+total_randomness	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+#CONTROL Class
+A	KEYWORD2
+B	KEYWORD2
+C	KEYWORD2
+D	KEYWORD2
+E	KEYWORD2
+F	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#PWM class
+CHANNEL_A	LITERAL1
+CHANNEL_B	LITERAL1
+CHANNEL_C	LITERAL1
+CHANNEL_D	LITERAL1
+CHANNEL_E	LITERAL1
+CHANNEL_F	LITERAL1
+STATUS	LITERAL1
+
+#######################################
+# Built-in variables (LITERAL2)
+#######################################
